@@ -1,0 +1,12 @@
+#Day 06 - What I did Today
+
+2 Hours - Ansible (Docker install & service start)
+2 Hours - Terraform (VPC + EC2 basics)
+1 Hour - Kubernetes (Pod + volume concept)
+1 Hour - Shell scripting (check running services)
+
+#Tomorrow's Tasks
+
+Revise Docker & Kubernetes basics
+Practice simple scripts
+Understand cloud concepts step by step

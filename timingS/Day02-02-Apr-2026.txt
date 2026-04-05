@@ -1,0 +1,16 @@
+#Today's Tasks - What I did Today
+
+3 Hours - Day 3 session on Linux
+2 Hours - Practiced Linux commands
+1 Hour - Faced multiple EC2 connection issues (MobaXterm) → troubleshooted & fixed
+2 Hours - Understood Linux basics (OS, Kernel, File system, GUI vs CLI)
+1 Hour - Worked on communication skills
+
+#Tomorrow's Tasks
+
+Learn Linux file system & permissions
+Understand how commands work internally
+Practice DevOps-related Linux commands
+Revise previous Pathnex tutorials to stay on track
+
+Faced challenges, but solved them step by step

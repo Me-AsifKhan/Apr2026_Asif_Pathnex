@@ -1,0 +1,17 @@
+Today's Tasks - What I did Today
+
+2 Hours - Learned Ansible basics (installing nginx & apache on server)
+2 Hours - Understood Terraform (creating EC2 with different sizes & tags)
+
+1 Hour - Practiced simple shell scripts (disk usage, user info)
+ 
+2 Hours - Tried to understand how all tools work together
+
+Faced confusion in understanding tools (Ansible, Terraform, Kubernetes) but tried step by step 
+
+Tomorrow's Tasks
+
+Revise same topics again slowly
+Practice basic commands again
+Focus on understanding instead of rushing
+Try small examples on EC2

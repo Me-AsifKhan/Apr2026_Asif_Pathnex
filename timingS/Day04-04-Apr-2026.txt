@@ -1,0 +1,12 @@
+#Day 04 - What I did Today
+
+2 Hours - Learned basic CI/CD (Jenkins & GitLab pipelines)
+2 Hours - Understood pipeline stages (build, test, deploy)
+1 Hour - Ansible (Nginx install + config)
+1 Hour - Terraform (Security Group basics - ports 22 & 80)
+
+#Tomorrow's Tasks
+
+Revise CI/CD basics
+Practice simple pipelines
+Understand flow slowly
