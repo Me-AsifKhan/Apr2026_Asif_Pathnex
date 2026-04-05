@@ -1,0 +1,12 @@
+#Day 05 - What I did Today
+
+2 Hours - Jenkins advanced (Git integration + pipeline flow)
+2 Hours - GitLab CI/CD with Docker (build & push concept)
+1 Hour - Ansible (user creation & permissions)
+1 Hour - Terraform (EC2 + storage volume)
+
+#Tomorrow's Tasks
+
+Practice Docker + CI/CD
+Revise Jenkins pipeline
+Try small real examples
