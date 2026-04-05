@@ -1,0 +1,20 @@
+
+Apr2026_Asif_Pathnex
+Hi ! This is for the daily update from Asif Khan
+
+
+# What I did today - Today's Taks
+
+2 Hours - Online Session in the Morning
+2 Hours - AWS
+2 hours - EC2 Install
+1 Hour - Git 
+2 Hours- MobaXterm - GitHub - EC2 connection #erors  handling & Troubleshooting
+
+
+## Tomorrow's Task
+Will Learn linux
+Basic Linux Installation 
+EC2 Connect
+GitHub  Connection
+
